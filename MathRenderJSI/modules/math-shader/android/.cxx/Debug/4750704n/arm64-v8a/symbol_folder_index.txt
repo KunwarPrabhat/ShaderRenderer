@@ -1,0 +1,1 @@
+E:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android\build\intermediates\cxx\Debug\4750704n\obj\arm64-v8a

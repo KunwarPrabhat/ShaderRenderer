@@ -1,0 +1,8 @@
+# ninja log v5
+2	321	1778962320653368500	CMakeFiles/math-shader.dir/run/media/zeron/New_Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/tinyexpr.c.o	d18bb8491775b9dc
+1	5491	1778962325826673500	CMakeFiles/math-shader.dir/run/media/zeron/New_Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o	1734a38beaf6f214
+5498	5576	1778962325916673000	../../../../build/intermediates/cxx/Debug/j5o2k1r4/obj/x86/libmath-shader.so	a8e8b160862a7bd1
+3	921	1778965395826493700	CMakeFiles/math-shader.dir/run/media/zeron/New_Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o	1734a38beaf6f214
+921	949	1778965395863160100	../../../../build/intermediates/cxx/Debug/j5o2k1r4/obj/x86/libmath-shader.so	a8e8b160862a7bd1
+3	932	1778966830691953300	CMakeFiles/math-shader.dir/run/media/zeron/New_Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o	1734a38beaf6f214
+932	950	1778966830715286500	../../../../build/intermediates/cxx/Debug/j5o2k1r4/obj/x86/libmath-shader.so	a8e8b160862a7bd1

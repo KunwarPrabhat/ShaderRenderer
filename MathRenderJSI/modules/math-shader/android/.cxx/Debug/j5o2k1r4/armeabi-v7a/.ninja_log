@@ -1,0 +1,8 @@
+# ninja log v5
+2	121	1778962313098579100	CMakeFiles/math-shader.dir/run/media/zeron/New_Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/tinyexpr.c.o	1b27b3f51d7b2306
+0	4879	1778962317813459700	CMakeFiles/math-shader.dir/run/media/zeron/New_Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o	d5aac19c32faed4
+4882	4997	1778962317963383300	../../../../build/intermediates/cxx/Debug/j5o2k1r4/obj/armeabi-v7a/libmath-shader.so	70331eee7c0da9c7
+3	903	1778965394856499000	CMakeFiles/math-shader.dir/run/media/zeron/New_Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o	d5aac19c32faed4
+903	933	1778965394896498800	../../../../build/intermediates/cxx/Debug/j5o2k1r4/obj/armeabi-v7a/libmath-shader.so	70331eee7c0da9c7
+3	894	1778966829721958600	CMakeFiles/math-shader.dir/run/media/zeron/New_Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o	d5aac19c32faed4
+894	913	1778966829748625100	../../../../build/intermediates/cxx/Debug/j5o2k1r4/obj/armeabi-v7a/libmath-shader.so	70331eee7c0da9c7

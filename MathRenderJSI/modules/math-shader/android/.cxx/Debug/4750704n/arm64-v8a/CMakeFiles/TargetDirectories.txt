@@ -1,0 +1,3 @@
+E:/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/4750704n/arm64-v8a/CMakeFiles/math-shader.dir
+E:/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/4750704n/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/4750704n/arm64-v8a/CMakeFiles/rebuild_cache.dir

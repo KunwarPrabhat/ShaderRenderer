@@ -1,0 +1,5 @@
+/run/media/zeron/New Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/j5o2k1r4/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/ReactAndroid/ReactAndroidConfig.cmake
+/run/media/zeron/New Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/j5o2k1r4/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/ReactAndroid/ReactAndroidConfigVersion.cmake
+/run/media/zeron/New Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/j5o2k1r4/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/fbjni/fbjniConfig.cmake
+/run/media/zeron/New Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/j5o2k1r4/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/fbjni/fbjniConfigVersion.cmake
+/run/media/zeron/New Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/CMakeLists.txt

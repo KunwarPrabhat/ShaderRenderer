@@ -1,0 +1,4 @@
+/home/zeron/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  "/run/media/zeron/New Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/j5o2k1r4/x86" \
+  math-shader

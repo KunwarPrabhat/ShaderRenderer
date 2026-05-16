@@ -1,0 +1,2 @@
+ninja: Entering directory `/run/media/zeron/New Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/j5o2k1r4/x86_64'
+ninja: no work to do.

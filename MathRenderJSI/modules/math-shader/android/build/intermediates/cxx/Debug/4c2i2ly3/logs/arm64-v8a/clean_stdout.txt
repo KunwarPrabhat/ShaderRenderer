@@ -1,0 +1,6 @@
+ninja: Entering directory `E:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android\.cxx\Debug\4c2i2ly3\arm64-v8a'
+[0/1] Re-running CMake...
+-- Configuring incomplete, errors occurred!
+See also "E:/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/4c2i2ly3/arm64-v8a/CMakeFiles/CMakeOutput.log".
+FAILED: build.ninja 
+C:\Users\rkpra\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe --regenerate-during-build -SE:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android -BE:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android\.cxx\Debug\4c2i2ly3\arm64-v8a

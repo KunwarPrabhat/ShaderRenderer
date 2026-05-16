@@ -1,0 +1,34 @@
+{
+  "buildFiles": [
+    "E:\\projects\\ShaderRenderer\\MathRenderJSI\\modules\\math-shader\\android\\.cxx\\Debug\\4750704n\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\fbjni\\fbjniConfig.cmake",
+    "E:\\projects\\ShaderRenderer\\MathRenderJSI\\modules\\math-shader\\android\\.cxx\\Debug\\4750704n\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\fbjni\\fbjniConfigVersion.cmake",
+    "E:\\projects\\ShaderRenderer\\MathRenderJSI\\modules\\math-shader\\android\\.cxx\\Debug\\4750704n\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\ReactAndroid\\ReactAndroidConfig.cmake",
+    "E:\\projects\\ShaderRenderer\\MathRenderJSI\\modules\\math-shader\\android\\.cxx\\Debug\\4750704n\\prefab\\arm64-v8a\\prefab\\lib\\aarch64-linux-android\\cmake\\ReactAndroid\\ReactAndroidConfigVersion.cmake",
+    "E:\\projects\\ShaderRenderer\\MathRenderJSI\\modules\\math-shader\\android\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\rkpra\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\projects\\ShaderRenderer\\MathRenderJSI\\modules\\math-shader\\android\\.cxx\\Debug\\4750704n\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\rkpra\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\projects\\ShaderRenderer\\MathRenderJSI\\modules\\math-shader\\android\\.cxx\\Debug\\4750704n\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "math-shader::@6890427a1f51a3e7e1df": {
+      "artifactName": "math-shader",
+      "abi": "arm64-v8a",
+      "output": "E:\\projects\\ShaderRenderer\\MathRenderJSI\\modules\\math-shader\\android\\build\\intermediates\\cxx\\Debug\\4750704n\\obj\\arm64-v8a\\libmath-shader.so",
+      "runtimeFiles": [
+        "C:\\Users\\rkpra\\.gradle\\caches\\9.0.0\\transforms\\aa939ccfc4a10d6af5eda985525bd898\\transformed\\react-android-0.83.6-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\rkpra\\.gradle\\caches\\9.0.0\\transforms\\83198c47a1c402754cadaa99718025d1\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so"
+      ]
+    }
+  }
+}

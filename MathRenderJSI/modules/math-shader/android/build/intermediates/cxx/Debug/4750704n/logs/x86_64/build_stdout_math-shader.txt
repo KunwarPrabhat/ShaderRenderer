@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android\.cxx\Debug\4750704n\x86_64'
+ninja: no work to do.

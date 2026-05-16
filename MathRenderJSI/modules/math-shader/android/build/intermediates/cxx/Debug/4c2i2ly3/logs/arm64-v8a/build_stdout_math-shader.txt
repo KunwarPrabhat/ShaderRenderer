@@ -1,0 +1,10 @@
+ninja: Entering directory `E:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android\.cxx\Debug\4c2i2ly3\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/math-shader.dir/E_/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o
+FAILED: CMakeFiles/math-shader.dir/E_/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o 
+C:\Users\rkpra\AppData\Local\Android\Sdk\ndk\27.0.12077973\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/rkpra/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmath_shader_EXPORTS -IE:/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/../cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -MD -MT CMakeFiles/math-shader.dir/E_/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o -MF CMakeFiles\math-shader.dir\E_\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\cpp\MathShaderModule.cpp.o.d -o CMakeFiles/math-shader.dir/E_/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o -c E:/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp
+In file included from E:/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp:1:
+E:/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.h:3:10: fatal error: 'jsi/jsi.h' file not found
+    3 | #include <jsi/jsi.h>
+      |          ^~~~~~~~~~~
+1 error generated.
+ninja: build stopped: subcommand failed.

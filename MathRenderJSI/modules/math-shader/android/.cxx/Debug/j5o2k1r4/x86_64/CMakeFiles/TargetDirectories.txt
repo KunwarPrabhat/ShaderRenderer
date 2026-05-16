@@ -1,0 +1,3 @@
+/run/media/zeron/New Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/j5o2k1r4/x86_64/CMakeFiles/math-shader.dir
+/run/media/zeron/New Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/j5o2k1r4/x86_64/CMakeFiles/edit_cache.dir
+/run/media/zeron/New Volume2/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/android/.cxx/Debug/j5o2k1r4/x86_64/CMakeFiles/rebuild_cache.dir

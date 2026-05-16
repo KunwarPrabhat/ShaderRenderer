@@ -1,0 +1,6 @@
+# ninja log v5
+4	346	8005953621658263	CMakeFiles/math-shader.dir/E_/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/tinyexpr.c.o	77c4065663eac350
+0	2976	8005953647286320	CMakeFiles/math-shader.dir/E_/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o	293f30c285df4d3d
+2985	3892	8005953655183119	../../../../build/intermediates/cxx/Debug/4750704n/obj/arm64-v8a/libmath-shader.so	97ad660a25837b7b
+10	2227	8005959482063734	CMakeFiles/math-shader.dir/E_/projects/ShaderRenderer/MathRenderJSI/modules/math-shader/cpp/MathShaderModule.cpp.o	293f30c285df4d3d
+2227	2434	8005959484214962	../../../../build/intermediates/cxx/Debug/4750704n/obj/arm64-v8a/libmath-shader.so	97ad660a25837b7b

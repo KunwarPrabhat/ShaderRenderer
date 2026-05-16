@@ -1,0 +1,5 @@
+E:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android\.cxx\Debug\4750704n\prefab\x86\prefab\lib\i686-linux-android\cmake\fbjni\fbjniConfig.cmake
+E:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android\.cxx\Debug\4750704n\prefab\x86\prefab\lib\i686-linux-android\cmake\fbjni\fbjniConfigVersion.cmake
+E:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android\.cxx\Debug\4750704n\prefab\x86\prefab\lib\i686-linux-android\cmake\ReactAndroid\ReactAndroidConfig.cmake
+E:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android\.cxx\Debug\4750704n\prefab\x86\prefab\lib\i686-linux-android\cmake\ReactAndroid\ReactAndroidConfigVersion.cmake
+E:\projects\ShaderRenderer\MathRenderJSI\modules\math-shader\android\CMakeLists.txt

@@ -1,0 +1,36 @@
+plugins {
+  id 'com.android.library'
+  id 'expo-module-gradle-plugin'
+}
+
+group = 'expo.modules.mathshader'
+version = '0.7.10'
+
+android {
+  namespace "expo.modules.mathshader"
+  defaultConfig {
+    versionCode 1
+    versionName "0.7.10"
+    externalNativeBuild {
+      cmake {
+        cppFlags "-O2 -frtti -fexceptions -Wall -fstack-protector-all"
+        arguments "-DANDROID_STL=c++_shared"
+      }
+    }
+  }
+  lintOptions {
+    abortOnError false
+  }
+  externalNativeBuild {
+    cmake {
+      path "CMakeLists.txt"
+    }
+  }
+  buildFeatures {
+    prefab true
+  }
+}
+
+dependencies {
+  implementation "com.facebook.react:react-android"
+}
